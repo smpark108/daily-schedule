@@ -5,10 +5,10 @@
 //
 // 값을 채우지 않은 채로 두면 기기 간 동기화 없이 이 브라우저에만 저장됩니다.
 window.FIREBASE_CONFIG = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyCxKOyFTF8Pf_iE8UzVv4rPBrdJGU2lPgQ",
+  authDomain: "daily-schedule-9861f.firebaseapp.com",
+  projectId: "daily-schedule-9861f",
+  storageBucket: "daily-schedule-9861f.firebasestorage.app",
+  messagingSenderId: "578967627638",
+  appId: "1:578967627638:web:e22969833b377c5d59bc57"
 };
